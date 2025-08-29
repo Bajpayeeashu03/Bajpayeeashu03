@@ -2,7 +2,6 @@
 # Welcome to My GitHub Profile !!
 <h1 align="center">Hi 👋, I'm Ashutosh Bajpayee</h1>
 - 🔭 Currently Pursuing B.Tech In Computer Science & Engineering from Heritage Institute Of Technology, Kolkata.<br>
-- 🌱 Currently learning Frontend Web Development.<br>
 - 🙂 Looking to collaborate on Real-World Web Development Projects. <br>
 - ✉️ Mail Id : ashutoshbajpayee2020@gmail.com.
 <h3 align="left">Connect with me:</h3>
